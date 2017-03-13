@@ -1,0 +1,112 @@
+1489411628289	geckodriver	INFO	Listening on 127.0.0.1:63827
+1489411629451	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.QFTlSZ6BfjtZ
+1489411629452	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489411629467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63836
+1489411630110	Marionette	INFO	Listening on port 63836
+1489411707611	geckodriver	INFO	Listening on 127.0.0.1:63985
+1489411708678	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.UtyvJzZzkNtv
+1489411708679	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489411708682	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63994
+1489411709201	Marionette	INFO	Listening on port 63994
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container is undefined
+Full stack: MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupView.prototype._mutationObserver/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:1039:11
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container is undefined
+Full stack: MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupView.prototype._mutationObserver/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:1039:11
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: container is undefined
+Full stack: MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupContainer.prototype.updateLevel/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:44
+MarkupContainer.prototype.updateLevel@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:2113:7
+MarkupView.prototype._mutationObserver/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/markup/markup.js:1039:11
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 35ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor12
+1489412476978	geckodriver	INFO	Listening on 127.0.0.1:64594
+1489412478049	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.nzoo8uqoxuKI
+1489412478050	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489412478052	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64603
+1489412478601	Marionette	INFO	Listening on port 64603
+1489412525242	geckodriver	INFO	Listening on 127.0.0.1:64708
+1489412526313	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.XDBUBTA8wPCv
+1489412526314	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489412526316	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64729
+1489412526873	Marionette	INFO	Listening on port 64729
+1489413130360	geckodriver	INFO	Listening on 127.0.0.1:65044
+1489413131424	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.AmyGMZCp9eKc
+1489413131425	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489413131428	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65055
+1489413131994	Marionette	INFO	Listening on port 65055
+1489413158912	geckodriver	INFO	Listening on 127.0.0.1:65183
+1489413159977	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.r7TIHHbZhZYZ
+1489413159978	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489413159982	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65192
+1489413160516	Marionette	INFO	Listening on port 65192
+1489413193604	geckodriver	INFO	Listening on 127.0.0.1:65306
+1489413194675	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.G7MbxB2jpGZf
+1489413194676	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489413194678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65315
+1489413195225	Marionette	INFO	Listening on port 65315
+1489413249941	geckodriver	INFO	Listening on 127.0.0.1:65435
+1489413251007	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.15FD3CMmUomh
+1489413251008	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489413251010	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65444
+1489413251543	Marionette	INFO	Listening on port 65444
+1489413313033	geckodriver	INFO	Listening on 127.0.0.1:49184
+1489413314096	mozprofile::profile	INFO	Using profile path /var/folders/1j/cn36g_t11wg4n9v1shm9x0k065kmcs/T/rust_mozprofile.ZwtDdXuaGyLm
+1489413314097	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489413314099	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49193
+1489413314616	Marionette	INFO	Listening on port 49193
