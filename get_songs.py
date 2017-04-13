@@ -10,8 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 username = str(sys.argv[1]) 
-i=2 #xpath 0 and 1 dont exist
-while (i < 153): #Number of songs in your likes.
+i=2 #xpath 0 and 1 dont apply here
+while (i < 150): #Number of songs in your likes. Can be checked by inspecting source and getting xpath of last track. 
     timeout = 12 #Script fails with long playlist downloads. Timeout can be inscresed.
     browser = webdriver.Chrome()
     browser.get("https://soundtake.net/#https://soundcloud.com/{}/likes".format(username))
